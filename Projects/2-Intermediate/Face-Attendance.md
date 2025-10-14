@@ -1,4 +1,4 @@
-# Face Attendance app
+# Face Attendance App
 
 **Tier:** 2-Intermediate
 
