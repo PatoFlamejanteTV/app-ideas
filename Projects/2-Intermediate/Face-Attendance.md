@@ -2,7 +2,7 @@
 
 **Tier:** 2-Intermediate
 
-The Attendance management system that captures face image and mark the attendance and timings
+Build an attendance management system that captures face images to record daily attendance and timestamps.
 
 ## User Stories
 
