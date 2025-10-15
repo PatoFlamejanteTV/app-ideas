@@ -33,7 +33,7 @@ The design is up to you—get creative with colors, icons, and layouts! You migh
 
 - [MDN Web Docs: Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - For storing habit data locally.
 - [JavaScript Date Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) - For handling dates and calculating streaks.
-- [Habit Tracking Apps (Wikipedia)](https://en.wikipedia.org/wiki/Habitica) - Overview of habit tracking concepts.
+- [Habitica (Wikipedia)](https://en.wikipedia.org/wiki/Habitica) - Example of a popular gamified habit tracking app.
 - [Notification API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) - For implementing reminders.
 
 ## Example projects
