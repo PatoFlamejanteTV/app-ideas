@@ -12,15 +12,16 @@ Objective of the application.
 
 ## User Stories
 
--   [ ] Read folders and get list of files. Sort file names and match with files from another folder.
--   [ ] Read files from the folders.
--   [ ] Check size of files if size differs then mark failure
--   [ ] Compare rows and column for files in comparison.
--   [ ] Check value for each row and column of both files. If there are difference in value mark as fail.
--   [ ] Check data types of numeric column,
--   [ ] Check data types of date column
--   [ ] Generate report in case of success stating files matched. Show number of rows compared.
--   [ ] Generate report in case of failure. Add failure details including column name and row index.
+    [ ] Read folders and retrieve a sorted list of files from both source folders.
+    [ ] Match files from both folders using name-based patterns (e.g., regex or simple heuristics).
+    [ ] Read files from the folders.
+    [ ] Compare file sizes; mark as failure if they differ.
+    [ ] Compare row and column counts between matched files.
+    [ ] Check values for each row and column; mark as failure if values differ.
+    [ ] Validate and compare data types of numeric columns between files.
+    [ ] Validate and compare data types of date columns between files.
+    [ ] Generate report in case of success stating files matched. Show number of rows compared.
+    [ ] Generate report in case of failure. Add failure details including column name and row index.
 
   
 
