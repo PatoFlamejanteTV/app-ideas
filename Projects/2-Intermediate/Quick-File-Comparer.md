@@ -1,6 +1,6 @@
 # Quick File Comparer
 
-**Tier:2
+Tier:2
 
 Objective of the application. 
 
