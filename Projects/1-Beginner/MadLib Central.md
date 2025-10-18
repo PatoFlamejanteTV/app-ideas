@@ -1,10 +1,13 @@
 # Madlib Central
 
-**Tier:** 2 - Intermediate 
+**Tier:** 1 - Beginner 
 
 The MadLib is a classic way for programmers to begin their coding journey! However, with this project, you'll be taking this one step further with an app that stores a library of Madlibs that can be contributed to as well as used to create stories. In case you don't know what a MadLib is, it's essentially a story with a few blanks in it that will be filled in by the user, except the user is unaware of what the contents are of the story they are contributing to. For example. "Once, a (noun) went (present-progressive verb)." Hopefully, your stories will be much more creative than that.
 
 On that note, get creative with your UI (User Interface)! How will you make a library not feel ovewhelming? How will you make actually going through and inputting the words to an existing Madlib feel easy? These are all things to consider while you're programming. 
+
+### Constraints
+- [ ] Users should not just directly copy the UI of existing websites
 
 ## User stories 
 
