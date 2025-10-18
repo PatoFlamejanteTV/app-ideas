@@ -8,6 +8,7 @@ On that note, get creative with your UI (User Interface)! How will you make a li
 
 ### Constraints
 - [ ] Users should not just directly copy the UI of existing websites
+- [ ] There should be at least ONE sample Madlib created by you!
 
 ## User stories 
 
