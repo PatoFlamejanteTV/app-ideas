@@ -4,9 +4,9 @@
 
 The MadLib is a classic way for programmers to begin their coding journey! However, with this project, you'll be taking this one step further with an app that stores a library of Madlibs that can be contributed to as well as used to create stories. In case you don't know what a MadLib is, it's essentially a story with a few blanks in it that will be filled in by the user, except the user is unaware of what the contents are of the story they are contributing to. For example. "Once, a (noun) went (present-progressive verb)." Hopefully, your stories will be much more creative than that.
 
-On that note, get creative with your UI (User Interface)! How will you make a library not feel ovewhelming? How will you make actually going through and inputting the words to an existing Madlib feel easy? These are all things to consider while you're programming. 
+On that note, get creative with your UI! How will you make a library not feel overwhelming? How will you make actually going through and inputting the words to an existing Madlib feel easy? These are all things to consider while you're programming. 
 
-### Constraints
+## Constraints
 - [ ] Users should not just directly copy the UI of existing websites
 - [ ] There should be at least ONE sample Madlib created by you!
 
@@ -16,7 +16,7 @@ For users interested in completing a MadLib:
 
 - [ ] User can see a homepage with a list of the titles of the Madlibs that have been contributed
 - [ ] User can click on a Madlib title and be redirected to a page that has all the words that must be inputted for that specific Madlib
-- [ ] User can choose between these word choices for the blanks of the Madlibs: singular noun, plural noun, adjective, adverb. present-progressive verb, past-tense verb, present tense verb (I, we, they, you), present tense verb (other pronouns)
+- [ ] User can choose between these word choices for the blanks of the Madlibs: singular noun, plural noun, adjective, adverb. present-progressive verb, past-tense verb, present-tense verb (I, we, they, you), present tense verb (other pronouns)
 - [ ] User can input the words required for the Madlib they selected and see a dispkay of the completed story at the end
 - [ ] User can go back to the home page at any time
 
