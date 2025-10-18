@@ -14,6 +14,9 @@ Generate passwords based on certain characteristics selected by the user.
 ## Bonus features
 
 - [ ] User can see the password strength
+- [ ] User can toggle to avoid ambiguous characters (e.g., 'O' and '0')
+- [ ] User can generate multiple passwords at once
+- [ ] User can save favorite/generated passwords locally
 
 ## Useful links and resources
 
@@ -23,3 +26,4 @@ Generate passwords based on certain characteristics selected by the user.
 
 - [Password Generator by Florin Pop on Codepen](https://codepen.io/FlorinPop17/full/BaBePej)
 - [PasswordGenerator](https://passwordsgenerator.net)
+- [PasGen by shubhamranswal](https://github.com/shubhamranswal/PasGen) - [Live Demo](https://shubhamranswal.github.io/PasGen/)
