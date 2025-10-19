@@ -24,7 +24,7 @@ It consists of patient and doctor pages where doctors can access patient records
 - Track patient medications
 
 ## Developer Notes
--By using the credentials created by super admin then only the doctor can access the records of his patients
+-By using the credentials created by super admin, only the doctor can access the records of their patients
 -The doctor login consists of two-step verification by completing it. Once completed, they can login through the application
 
 ## Bonus features
@@ -33,8 +33,8 @@ It consists of patient and doctor pages where doctors can access patient records
 **Medical Conditions Database**: Comprehensive information on various medical conditions
 
 ## Useful links and resources
-**Supabase** (for database): https://supabase.com/
-**3D Mesh Provider**: https://www.meshy.ai/
++**Supabase** (for database): https://supabase.com/
++**3D Mesh Provider**: https://www.meshy.ai/
 
 ## Example projects
  [Celestia Care](https://celestiacare.net/) — reference implementation (many functionalities remain to be developed)
