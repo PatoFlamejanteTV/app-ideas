@@ -23,10 +23,11 @@ A Local Skill-Swap Marketplace allows users to offer skills they can teach (like
 
 ## Useful links and resources
 
-- https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API  
-- https://leafletjs.com/  
-- https://www.freecodecamp.org/news/authentication-in-web-applications/  
-- https://www.skillshare.com/ *(for inspiration)*
+
+- [WebSockets API — MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)  
+- [Leaflet.js](https://leafletjs.com/)  
+- [Authentication in Web Applications — FreeCodeCamp](https://www.freecodecamp.org/news/authentication-in-web-applications/)  
+- [Skillshare](https://www.skillshare.com/) *(for inspiration)*
 
 ## Example projects
 
