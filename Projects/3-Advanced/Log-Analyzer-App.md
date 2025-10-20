@@ -37,18 +37,18 @@ Big logs shouldn’t slow you down. This app helps you open, search and filter m
 
 ## Useful links and resources
 
-- Node.js Streams: https://nodejs.org/api/stream.html
-- Node.js `fs.createReadStream`: https://nodejs.org/api/fs.html#fs_fs_createreadstream_path_options
-- Go `bufio`: https://pkg.go.dev/bufio
-- Regular Expressions (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
-- Virtualized lists (`react-window`): https://github.com/bvaughn/react-window
-- Virtualized lists (`react-virtualized`): https://github.com/bvaughn/react-virtualized
-- NDJSON (Newline Delimited JSON): https://ndjson.org/
-- Apache Combined Log Format: https://httpd.apache.org/docs/2.4/logs.html#combined
-- Node.js `zlib` (gzip/deflate): https://nodejs.org/api/zlib.html
+- [Node.js Streams](https://nodejs.org/api/stream.html)
+- [fs.createReadStream](https://nodejs.org/api/fs.html#fs_fs_createreadstream_path_options)
+- [Go bufio](https://pkg.go.dev/bufio)
+- [Regular Expressions (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [react-window](https://github.com/bvaughn/react-window)
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+- [NDJSON](https://ndjson.org/)
+- [Apache Combined Log Format](https://httpd.apache.org/docs/2.4/logs.html#combined)
+- [Node.js zlib](https://nodejs.org/api/zlib.html)
 
 ## Example projects
 
-- GoAccess — Real-time web log analyzer: https://goaccess.io/
-- lnav — The Logfile Navigator: https://lnav.org/
-- Kibana — Search and visualize logs: https://www.elastic.co/kibana/
+- [GoAccess](https://goaccess.io/)
+- [lnav](https://lnav.org/)
+- [Kibana](https://www.elastic.co/kibana/)
