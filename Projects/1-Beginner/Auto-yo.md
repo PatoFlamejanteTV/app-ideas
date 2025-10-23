@@ -18,3 +18,10 @@ run a code that does something simple. It's a slightly more complicated and inte
 
 ## Useful links and resources 
 -   [ ] https://en.wikipedia.org/wiki/Yo_(app)
+
+## Example projects
+
+Try not to view this until you've developed your own solution:
+
+-   [example implementation for AutoYo in python](https://github.com/almogbarzik-cmyk/Auto-yo)
+- 
