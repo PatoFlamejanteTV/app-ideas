@@ -1,4 +1,5 @@
 [![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
+
 Thank you [CodeRabbit](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
 
 # :ledger: App Ideas Collection
@@ -8,11 +9,20 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
+<<<<<<< HEAD
 - great for improving your coding skills :muscle:;
 - great for experimenting with new technologies 🆕;
 - great for adding to your portfolio to impress your next employer/client :file_folder:;
 - great for using as examples in tutorials (articles or videos) :page_with_curl:;
 - easy to complete and also easily extendable with new features :ok_hand:;
+=======
+-   great for improving your coding skills :muscle:;
+-   great for experimenting with new technologies 🆕;
+-   great for adding to your portfolio to impress your next employer/client :file_folder:;
+-   great for using as examples in tutorials (articles or videos) :page_with_curl:;
+-   easy to complete and also easily extendable with new features :ok_hand:;
+-   **perfect for Hacktoberfest contributions** 🎃;
+>>>>>>> upstream/pr/1004
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
@@ -29,6 +39,7 @@ Here you can [watch a video about this repository](https://www.youtube.com/watch
 
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
+<<<<<<< HEAD
 
 | Tier | Developer Profile                                                                                                                                                |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -179,3 +190,5 @@ As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop
 ## Stars history
 
 [![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
+=======
+>>>>>>> upstream/pr/1004
